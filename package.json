@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/numbers1311407/mongoose-friends"
+    "url": "https://github.com/kizimo/mongoose-friends"
   },
   "scripts": {
     "test": "make test"
@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/numbers1311407/mongoose-friends/issues"
+    "url": "https://github.com/kizimo/mongoose-friends/issues"
   },
   "dependencies": {
     "underscore": "~1.5.2",
